@@ -1,3 +1,3 @@
-# Movie App 2019
+# Movie App 2020
 
-React JS Fundamentals Course (2020 Update!)
+React JS Practice
